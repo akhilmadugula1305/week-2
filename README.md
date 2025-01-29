@@ -1,2 +1,3 @@
-# week-2
- predicting solar power  using linear regression
+Crop_Fertilizer_RS
+Based on RS by using ML
+
